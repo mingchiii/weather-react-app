@@ -1,3 +1,8 @@
+
+# Weather React App Design
+
+My name is Mingchi Liu. This is a React app that I build for my Web and mobile design course in NYIT graduate program. This weather app will show the weather condition by cities. This app is built with following components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
