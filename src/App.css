@@ -35,6 +35,10 @@ h2 {
   }
 }
 
+.btn-primary {
+  --bs-btn-bg: #574ed7 !important;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
