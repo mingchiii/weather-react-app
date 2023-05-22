@@ -9,7 +9,7 @@ h1 {
   color:dimgray;
 }
 .card-background {
-  background-color:rgba(95, 158, 160, 0.233);
+  background-color: rgb(154 125 169);
 }
 
 h2 {
@@ -36,7 +36,8 @@ h2 {
 }
 
 .btn-primary {
-  --bs-btn-bg: #574ed7 !important;
+  --bs-btn-bg: #8062cd !important;
+  --bs-btn-hover-bg: #422e81 !important;
 }
 
 .App-header {
